@@ -1,0 +1,36 @@
+{
+  "Version": 3,
+  "ItemType": "Rock",
+  "AuthorId": 76561198043615169,
+  "PublishDate": "2017-05-12T18:09:45.2592329Z",
+  "Groups": [
+    {
+      "Textures": {
+        "_MainTex": "_MainTex0.png"
+      },
+      "Floats": {
+        "_Cutoff": 0.561060846,
+        "_BumpScale": 1.50542068,
+        "_Glossiness": 0.927694559,
+        "_OcclusionStrength": 0.805483341
+      },
+      "Colors": {
+        "_Color": {
+          "r": 1.0,
+          "g": 1.0,
+          "b": 1.0
+        },
+        "_SpecColor": {
+          "r": 1.0,
+          "g": 1.0,
+          "b": 1.0
+        },
+        "_EmissionColor": {
+          "r": 0.0,
+          "g": 0.0,
+          "b": 0.0
+        }
+      }
+    }
+  ]
+}
